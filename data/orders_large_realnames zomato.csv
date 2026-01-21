@@ -1,0 +1,301 @@
+order_id,customer_id,restaurant_id,order_item,order_date,order_time,order_status,total_amount
+200001,19,51,Fried Rice,2023-04-01,06:00:29,Completed,499
+200002,94,50,Dal Makhani,2023-08-01,07:21:19,Not Fulfilled,680
+200003,40,8,Fried Rice,2024-03-02,11:21:00,Cancelled,750
+200004,129,76,Chicken Biryani,2024-02-21,22:18:29,Completed,386
+200005,108,55,Veg Biryani,2023-05-04,14:10:56,Completed,925
+200006,137,11,Chicken Biryani,2024-06-16,23:35:16,Not Fulfilled,1139
+200007,22,54,Veg Biryani,2025-02-10,13:54:30,Completed,956
+200008,6,57,Fried Rice,2024-10-10,18:45:31,Not Fulfilled,1009
+200009,77,72,Dal Makhani,2023-06-08,14:10:14,Cancelled,1173
+200010,147,60,Pasta Alfredo,2023-11-06,23:35:58,Cancelled,197
+200011,129,70,Burger,2024-10-08,22:52:29,Cancelled,526
+200012,61,29,Burger,2024-09-09,05:33:49,Completed,216
+200013,15,22,Pasta Alfredo,2025-02-18,09:10:49,Completed,208
+200014,44,60,Burger,2023-02-13,16:15:02,Completed,440
+200015,126,59,Mutton Rogan Josh,2023-12-27,00:26:40,Not Fulfilled,879
+200016,67,3,Paneer Butter Masala,2023-09-19,01:09:41,Not Fulfilled,639
+200017,30,66,Chicken Curry,2024-04-29,09:22:20,Not Fulfilled,1023
+200018,85,77,Pizza,2024-03-15,01:06:30,Not Fulfilled,886
+200019,125,56,Fried Rice,2024-01-01,02:10:37,Completed,808
+200020,74,26,Chicken Biryani,2025-01-17,18:27:46,Completed,500
+200021,42,62,Burger,2024-02-08,03:24:15,Completed,308
+200022,126,7,Hakka Noodles,2023-09-20,15:05:49,Not Fulfilled,326
+200023,63,23,Paneer Butter Masala,2024-04-05,12:57:45,Not Fulfilled,540
+200024,109,30,Pasta Alfredo,2024-02-28,06:14:46,Not Fulfilled,888
+200025,124,17,Mutton Rogan Josh,2023-07-23,18:42:54,Not Fulfilled,257
+200026,134,24,Masala Dosa,2023-03-22,23:25:40,Not Fulfilled,156
+200027,129,30,Mutton Rogan Josh,2024-12-08,22:57:36,Cancelled,795
+200028,126,75,Dal Makhani,2023-06-29,15:15:24,Cancelled,1098
+200029,131,14,Pasta Alfredo,2024-09-09,16:46:05,Completed,270
+200030,28,9,Pizza,2023-09-11,08:46:44,Cancelled,736
+200031,137,48,Paneer Butter Masala,2023-12-26,18:40:50,Completed,296
+200032,4,58,Dal Makhani,2023-05-02,12:39:39,Completed,484
+200033,35,53,Masala Dosa,2024-05-02,14:04:10,Completed,851
+200034,69,20,Dal Makhani,2023-02-28,14:44:47,Not Fulfilled,234
+200035,14,5,Fried Rice,2024-06-27,13:35:34,Cancelled,888
+200036,75,76,Paneer Butter Masala,2024-04-20,23:21:22,Completed,683
+200037,75,45,Chicken Curry,2024-07-26,03:16:40,Cancelled,791
+200038,119,55,Pasta Alfredo,2023-06-20,08:07:09,Not Fulfilled,496
+200039,1,57,Mutton Rogan Josh,2025-02-20,11:27:56,Cancelled,476
+200040,81,25,Dal Makhani,2024-10-16,21:08:03,Completed,496
+200041,145,69,Hakka Noodles,2023-06-04,01:36:18,Cancelled,1094
+200042,94,40,Pizza,2023-03-15,06:41:51,Cancelled,293
+200043,19,73,Masala Dosa,2024-03-29,17:43:15,Not Fulfilled,696
+200044,143,38,Chicken Biryani,2024-05-29,13:42:46,Cancelled,1107
+200045,15,48,Burger,2024-05-04,15:18:53,Not Fulfilled,1148
+200046,1,48,Pizza,2024-08-19,18:41:30,Completed,618
+200047,100,56,Burger,2024-11-27,08:06:21,Completed,336
+200048,28,33,Pasta Alfredo,2023-08-29,05:34:43,Completed,158
+200049,129,71,Pizza,2024-10-17,05:21:36,Completed,400
+200050,43,41,Chicken Biryani,2023-12-16,15:12:28,Completed,1131
+200051,146,18,Chicken Biryani,2024-07-24,09:32:11,Not Fulfilled,365
+200052,39,64,Dal Makhani,2025-02-06,09:36:19,Completed,949
+200053,43,19,Pasta Alfredo,2024-10-30,20:54:00,Cancelled,1036
+200054,105,78,Chole Bhature,2024-10-09,20:01:01,Not Fulfilled,487
+200055,71,52,Masala Dosa,2024-08-28,16:38:45,Cancelled,929
+200056,61,44,Hakka Noodles,2023-08-18,11:36:54,Not Fulfilled,224
+200057,147,2,Mutton Rogan Josh,2023-05-31,00:08:13,Cancelled,649
+200058,20,63,Pasta Alfredo,2025-01-17,01:53:28,Cancelled,157
+200059,55,23,Chole Bhature,2024-08-09,06:44:48,Cancelled,209
+200060,76,20,Hakka Noodles,2024-09-11,15:24:05,Completed,1117
+200061,20,39,Dal Makhani,2023-07-07,15:49:45,Cancelled,748
+200062,15,62,Pizza,2023-02-17,11:04:05,Cancelled,1025
+200063,10,15,Dal Makhani,2024-07-24,20:51:56,Completed,412
+200064,12,30,Dal Makhani,2024-03-05,01:04:59,Cancelled,243
+200065,106,48,Burger,2024-06-11,19:39:57,Not Fulfilled,756
+200066,99,33,Pasta Alfredo,2023-01-16,17:34:00,Cancelled,615
+200067,143,9,Pasta Alfredo,2024-07-07,22:22:53,Cancelled,222
+200068,13,42,Chole Bhature,2024-11-09,14:19:20,Completed,473
+200069,89,64,Veg Biryani,2025-01-30,11:14:20,Completed,775
+200070,2,66,Pizza,2023-04-26,23:47:45,Cancelled,258
+200071,34,74,Chicken Biryani,2023-10-07,07:22:34,Completed,762
+200072,140,49,Dal Makhani,2025-01-01,17:40:52,Cancelled,1067
+200073,82,1,Dal Makhani,2023-05-12,09:12:22,Cancelled,1174
+200074,73,54,Chicken Curry,2023-04-09,14:09:14,Cancelled,825
+200075,77,32,Chole Bhature,2024-12-02,13:01:51,Completed,621
+200076,98,27,Paneer Butter Masala,2023-02-20,02:23:23,Completed,532
+200077,16,10,Chicken Biryani,2024-02-27,07:44:04,Not Fulfilled,1039
+200078,128,34,Veg Biryani,2023-01-18,17:06:54,Completed,309
+200079,97,34,Veg Biryani,2023-11-30,19:07:19,Not Fulfilled,628
+200080,62,58,Paneer Butter Masala,2024-05-09,21:50:20,Cancelled,562
+200081,111,7,Pasta Alfredo,2023-05-10,13:16:09,Cancelled,438
+200082,145,37,Dal Makhani,2024-08-06,20:40:32,Not Fulfilled,978
+200083,53,63,Pasta Alfredo,2024-12-27,03:16:03,Completed,955
+200084,139,13,Paneer Butter Masala,2024-06-14,23:14:17,Completed,378
+200085,16,8,Chicken Curry,2024-03-05,12:41:32,Not Fulfilled,215
+200086,26,17,Pasta Alfredo,2023-11-10,01:53:14,Cancelled,792
+200087,73,57,Chole Bhature,2024-07-06,13:52:01,Not Fulfilled,594
+200088,42,27,Veg Biryani,2023-02-03,19:09:38,Cancelled,806
+200089,65,68,Chole Bhature,2023-12-19,20:54:03,Not Fulfilled,435
+200090,148,27,Pasta Alfredo,2023-09-14,15:27:36,Cancelled,1050
+200091,92,54,Burger,2024-07-28,07:20:34,Cancelled,234
+200092,6,63,Fried Rice,2023-06-23,01:28:48,Completed,219
+200093,122,76,Paneer Butter Masala,2023-03-20,07:44:41,Not Fulfilled,365
+200094,139,21,Hakka Noodles,2023-08-07,19:23:39,Completed,248
+200095,133,60,Masala Dosa,2023-05-25,22:42:29,Not Fulfilled,297
+200096,63,64,Veg Biryani,2023-03-01,05:41:49,Not Fulfilled,500
+200097,35,79,Masala Dosa,2023-03-21,14:02:07,Completed,300
+200098,16,13,Fried Rice,2024-03-27,02:38:38,Not Fulfilled,580
+200099,28,26,Veg Biryani,2024-10-17,18:58:55,Not Fulfilled,913
+200100,43,68,Pizza,2023-11-21,06:32:34,Completed,1042
+200101,52,69,Fried Rice,2024-04-23,18:34:47,Cancelled,1064
+200102,1,45,Chicken Biryani,2023-09-25,16:16:06,Not Fulfilled,984
+200103,106,39,Pasta Alfredo,2023-03-21,09:10:55,Cancelled,438
+200104,29,9,Pasta Alfredo,2024-10-10,08:11:15,Completed,851
+200105,66,56,Pasta Alfredo,2024-06-15,02:46:45,Cancelled,850
+200106,102,32,Dal Makhani,2023-01-10,23:18:55,Completed,771
+200107,62,3,Masala Dosa,2023-06-28,06:00:07,Cancelled,693
+200108,121,15,Burger,2023-03-26,18:42:35,Not Fulfilled,975
+200109,83,14,Pasta Alfredo,2024-02-24,13:54:48,Cancelled,247
+200110,92,43,Chicken Biryani,2024-05-29,19:53:06,Cancelled,1198
+200111,13,78,Pasta Alfredo,2023-05-03,15:36:10,Cancelled,306
+200112,68,15,Paneer Butter Masala,2024-12-17,22:42:17,Cancelled,773
+200113,137,32,Dal Makhani,2023-04-08,13:27:56,Cancelled,587
+200114,98,9,Chole Bhature,2024-03-19,03:07:29,Cancelled,819
+200115,86,19,Chole Bhature,2023-02-11,00:33:44,Cancelled,684
+200116,112,34,Paneer Butter Masala,2023-05-16,12:19:50,Completed,900
+200117,147,59,Hakka Noodles,2024-12-29,11:30:00,Not Fulfilled,756
+200118,40,65,Mutton Rogan Josh,2024-11-12,08:11:38,Completed,1186
+200119,34,10,Masala Dosa,2023-04-05,15:21:20,Cancelled,852
+200120,32,47,Chicken Curry,2023-06-14,22:06:43,Not Fulfilled,218
+200121,134,73,Pizza,2023-04-01,11:38:38,Not Fulfilled,777
+200122,146,47,Paneer Butter Masala,2025-03-01,14:05:56,Not Fulfilled,754
+200123,68,59,Mutton Rogan Josh,2024-03-18,02:05:32,Cancelled,1153
+200124,114,46,Pasta Alfredo,2024-10-22,05:23:39,Completed,241
+200125,56,49,Mutton Rogan Josh,2023-02-06,18:06:03,Not Fulfilled,571
+200126,87,63,Pasta Alfredo,2025-01-05,00:29:26,Completed,308
+200127,72,49,Chicken Biryani,2025-01-22,07:44:27,Cancelled,533
+200128,134,76,Chicken Curry,2023-02-03,22:32:12,Cancelled,994
+200129,103,70,Fried Rice,2023-07-06,16:04:59,Completed,367
+200130,11,29,Chicken Curry,2024-08-15,00:54:53,Completed,993
+200131,82,74,Chicken Curry,2023-10-08,21:55:44,Cancelled,832
+200132,147,9,Mutton Rogan Josh,2024-07-01,05:20:30,Not Fulfilled,1072
+200133,116,55,Pasta Alfredo,2024-09-23,14:15:51,Cancelled,720
+200134,142,20,Paneer Butter Masala,2023-05-17,00:46:44,Cancelled,649
+200135,11,2,Paneer Butter Masala,2024-09-28,02:40:25,Completed,1076
+200136,45,77,Chicken Biryani,2024-09-11,23:31:53,Completed,343
+200137,15,70,Mutton Rogan Josh,2024-11-16,05:15:43,Cancelled,836
+200138,20,70,Pasta Alfredo,2023-05-03,06:48:54,Not Fulfilled,1127
+200139,97,77,Chole Bhature,2024-05-27,11:29:55,Not Fulfilled,1036
+200140,86,64,Chole Bhature,2023-12-07,10:35:22,Not Fulfilled,284
+200141,56,18,Pizza,2023-05-16,02:19:20,Completed,1044
+200142,36,59,Pasta Alfredo,2024-06-03,16:35:04,Cancelled,1151
+200143,61,21,Hakka Noodles,2023-03-01,20:57:10,Completed,1011
+200144,103,51,Mutton Rogan Josh,2023-09-16,04:28:19,Cancelled,982
+200145,13,51,Dal Makhani,2023-02-16,12:04:51,Not Fulfilled,327
+200146,7,52,Pasta Alfredo,2024-07-14,02:11:25,Completed,934
+200147,132,22,Mutton Rogan Josh,2024-03-27,04:56:44,Cancelled,1052
+200148,29,62,Chicken Biryani,2024-10-25,21:25:23,Cancelled,1087
+200149,117,6,Masala Dosa,2024-06-26,02:28:49,Completed,556
+200150,121,58,Paneer Butter Masala,2023-11-02,09:31:17,Not Fulfilled,1170
+200151,80,22,Pizza,2023-02-26,13:20:04,Cancelled,998
+200152,29,57,Veg Biryani,2025-02-21,22:15:22,Completed,287
+200153,144,71,Fried Rice,2023-04-22,21:20:12,Not Fulfilled,746
+200154,33,72,Mutton Rogan Josh,2023-10-14,02:12:58,Not Fulfilled,879
+200155,77,67,Pasta Alfredo,2023-07-30,09:02:27,Not Fulfilled,568
+200156,101,3,Chole Bhature,2023-01-11,05:48:21,Cancelled,1186
+200157,10,12,Hakka Noodles,2023-01-05,13:25:51,Completed,227
+200158,16,11,Veg Biryani,2023-12-07,17:17:30,Not Fulfilled,288
+200159,69,54,Pasta Alfredo,2023-05-07,19:34:34,Completed,419
+200160,44,21,Chole Bhature,2025-03-06,04:38:24,Not Fulfilled,370
+200161,127,42,Pizza,2023-04-05,18:38:24,Not Fulfilled,623
+200162,94,42,Chicken Curry,2024-08-06,19:04:15,Completed,886
+200163,130,63,Chicken Biryani,2024-10-29,23:31:44,Completed,645
+200164,110,77,Burger,2023-08-20,12:38:32,Completed,938
+200165,118,8,Dal Makhani,2024-07-09,15:36:39,Not Fulfilled,1101
+200166,150,33,Pizza,2023-04-18,16:54:54,Cancelled,929
+200167,110,62,Fried Rice,2024-04-08,22:58:54,Cancelled,199
+200168,64,35,Mutton Rogan Josh,2023-06-27,21:15:27,Completed,982
+200169,133,57,Burger,2024-11-26,11:28:03,Cancelled,378
+200170,103,11,Pizza,2024-09-26,07:30:12,Cancelled,493
+200171,42,2,Pizza,2024-09-14,00:12:50,Cancelled,804
+200172,85,36,Pasta Alfredo,2023-04-15,00:20:17,Cancelled,747
+200173,83,35,Pasta Alfredo,2023-02-04,12:22:29,Completed,481
+200174,80,33,Pasta Alfredo,2024-10-31,00:48:53,Cancelled,775
+200175,7,72,Chole Bhature,2024-04-02,16:05:24,Cancelled,935
+200176,71,47,Chicken Curry,2023-04-27,01:55:24,Not Fulfilled,1074
+200177,138,64,Masala Dosa,2023-06-14,05:46:47,Completed,1116
+200178,37,76,Burger,2024-03-24,07:56:50,Cancelled,379
+200179,22,72,Chicken Biryani,2025-02-10,21:28:12,Cancelled,977
+200180,121,12,Paneer Butter Masala,2024-10-07,05:51:56,Cancelled,1073
+200181,68,43,Paneer Butter Masala,2024-08-13,11:48:48,Cancelled,364
+200182,148,19,Hakka Noodles,2024-03-12,09:19:47,Not Fulfilled,313
+200183,92,26,Paneer Butter Masala,2024-05-07,01:28:32,Not Fulfilled,233
+200184,131,68,Paneer Butter Masala,2025-01-03,21:45:59,Cancelled,750
+200185,7,51,Fried Rice,2023-06-28,20:25:17,Cancelled,408
+200186,76,8,Veg Biryani,2025-02-14,01:59:40,Not Fulfilled,848
+200187,44,35,Mutton Rogan Josh,2023-12-06,01:05:26,Not Fulfilled,890
+200188,147,54,Mutton Rogan Josh,2024-08-05,17:44:45,Not Fulfilled,684
+200189,48,69,Paneer Butter Masala,2025-01-23,11:20:14,Not Fulfilled,718
+200190,123,13,Mutton Rogan Josh,2025-02-20,20:39:59,Completed,854
+200191,147,37,Fried Rice,2024-03-22,08:01:24,Cancelled,972
+200192,148,44,Mutton Rogan Josh,2024-08-21,21:47:04,Not Fulfilled,935
+200193,87,22,Chicken Curry,2023-02-22,06:43:39,Completed,817
+200194,145,42,Pasta Alfredo,2024-01-06,14:49:38,Completed,302
+200195,31,75,Burger,2024-10-24,06:41:35,Not Fulfilled,1181
+200196,130,69,Chicken Biryani,2023-06-28,05:33:21,Cancelled,747
+200197,107,33,Veg Biryani,2024-04-16,05:23:06,Cancelled,897
+200198,102,34,Burger,2025-02-27,22:34:13,Completed,1038
+200199,45,32,Veg Biryani,2023-11-28,18:28:49,Cancelled,190
+200200,127,35,Chicken Curry,2024-03-18,17:22:33,Not Fulfilled,847
+200201,141,33,Masala Dosa,2024-03-02,17:03:04,Not Fulfilled,570
+200202,10,17,Paneer Butter Masala,2024-04-18,17:07:05,Not Fulfilled,734
+200203,120,60,Paneer Butter Masala,2024-07-16,01:52:59,Completed,164
+200204,57,31,Chicken Biryani,2024-08-20,20:44:52,Not Fulfilled,979
+200205,134,47,Chicken Curry,2024-05-27,00:44:04,Cancelled,649
+200206,30,47,Paneer Butter Masala,2024-11-10,07:45:29,Cancelled,188
+200207,28,7,Dal Makhani,2023-11-15,10:33:58,Not Fulfilled,255
+200208,19,65,Burger,2024-02-05,14:14:18,Cancelled,1089
+200209,24,18,Pizza,2023-02-16,01:01:44,Completed,898
+200210,114,71,Fried Rice,2024-09-18,06:36:04,Cancelled,450
+200211,40,40,Pasta Alfredo,2024-08-28,02:31:06,Not Fulfilled,1104
+200212,102,4,Paneer Butter Masala,2025-02-13,16:34:27,Not Fulfilled,526
+200213,128,30,Dal Makhani,2024-09-12,08:29:48,Cancelled,554
+200214,67,47,Hakka Noodles,2025-01-16,07:55:23,Not Fulfilled,320
+200215,34,29,Fried Rice,2024-09-28,00:26:13,Not Fulfilled,1005
+200216,44,12,Pasta Alfredo,2023-08-20,12:05:53,Completed,554
+200217,99,60,Masala Dosa,2023-02-23,16:52:32,Cancelled,507
+200218,45,14,Chicken Curry,2024-05-23,06:51:59,Completed,699
+200219,29,24,Hakka Noodles,2023-11-02,19:37:22,Not Fulfilled,381
+200220,41,7,Chole Bhature,2023-08-10,04:46:53,Completed,1192
+200221,68,29,Pasta Alfredo,2024-03-02,15:39:41,Not Fulfilled,812
+200222,36,64,Burger,2024-11-22,11:58:52,Completed,157
+200223,58,16,Chicken Biryani,2024-07-25,19:47:14,Cancelled,1151
+200224,75,67,Pasta Alfredo,2023-01-19,03:54:20,Completed,1047
+200225,21,27,Chicken Biryani,2024-12-20,08:59:45,Completed,269
+200226,113,59,Mutton Rogan Josh,2023-07-14,06:50:46,Completed,170
+200227,17,24,Fried Rice,2024-06-01,23:34:19,Cancelled,286
+200228,61,8,Paneer Butter Masala,2023-01-09,03:46:24,Cancelled,926
+200229,84,36,Chole Bhature,2024-07-17,02:05:13,Completed,952
+200230,134,46,Chole Bhature,2023-03-02,11:33:44,Cancelled,1041
+200231,114,25,Mutton Rogan Josh,2023-05-21,06:38:45,Completed,367
+200232,113,44,Hakka Noodles,2024-09-07,11:04:00,Cancelled,1131
+200233,106,33,Hakka Noodles,2024-12-19,23:13:35,Not Fulfilled,253
+200234,136,1,Pizza,2024-08-01,10:36:29,Completed,1031
+200235,100,8,Chole Bhature,2023-01-13,11:25:10,Completed,419
+200236,146,27,Pizza,2023-06-24,13:06:45,Not Fulfilled,879
+200237,20,69,Fried Rice,2023-11-17,11:39:12,Completed,1084
+200238,117,57,Chole Bhature,2023-07-01,12:17:55,Not Fulfilled,978
+200239,65,50,Paneer Butter Masala,2024-10-19,09:20:41,Completed,384
+200240,63,65,Dal Makhani,2023-08-03,05:15:10,Completed,310
+200241,114,42,Pasta Alfredo,2025-01-05,09:31:36,Cancelled,1071
+200242,36,47,Paneer Butter Masala,2024-08-10,00:28:32,Cancelled,684
+200243,111,38,Chole Bhature,2025-01-29,19:54:09,Cancelled,1196
+200244,137,5,Chicken Curry,2024-09-04,00:10:17,Not Fulfilled,230
+200245,102,18,Veg Biryani,2023-04-16,09:50:12,Completed,850
+200246,61,70,Pasta Alfredo,2024-09-11,21:56:13,Cancelled,827
+200247,63,7,Chicken Curry,2024-03-23,14:08:46,Cancelled,850
+200248,70,23,Dal Makhani,2023-07-07,19:28:57,Cancelled,354
+200249,93,20,Pizza,2023-11-11,04:07:39,Not Fulfilled,1027
+200250,144,63,Pizza,2024-05-12,21:24:23,Not Fulfilled,610
+200251,99,9,Chicken Curry,2025-03-09,00:58:15,Not Fulfilled,664
+200252,19,35,Chole Bhature,2023-09-21,19:06:12,Completed,544
+200253,47,54,Veg Biryani,2023-11-19,05:45:50,Cancelled,606
+200254,62,44,Pasta Alfredo,2024-06-01,10:15:49,Not Fulfilled,490
+200255,71,70,Chicken Biryani,2023-10-08,02:23:00,Not Fulfilled,1075
+200256,27,10,Hakka Noodles,2025-03-01,11:26:15,Cancelled,667
+200257,141,21,Chicken Biryani,2023-12-06,13:51:44,Cancelled,1085
+200258,18,76,Paneer Butter Masala,2024-05-10,12:30:23,Not Fulfilled,618
+200259,126,65,Paneer Butter Masala,2025-01-11,19:59:24,Completed,463
+200260,41,30,Pizza,2024-10-21,22:44:56,Not Fulfilled,693
+200261,6,70,Mutton Rogan Josh,2024-08-16,10:27:02,Completed,300
+200262,57,43,Pasta Alfredo,2023-06-14,20:12:03,Completed,413
+200263,6,53,Burger,2025-02-28,00:20:33,Cancelled,844
+200264,94,15,Paneer Butter Masala,2024-10-30,09:52:48,Cancelled,947
+200265,127,21,Chicken Curry,2025-02-02,05:56:07,Cancelled,1140
+200266,60,17,Mutton Rogan Josh,2024-03-07,12:15:01,Completed,533
+200267,80,11,Masala Dosa,2024-12-19,16:59:41,Completed,1130
+200268,139,8,Burger,2024-04-25,21:02:31,Cancelled,548
+200269,2,36,Masala Dosa,2023-10-04,20:32:54,Cancelled,877
+200270,128,29,Pasta Alfredo,2023-08-16,02:12:38,Completed,1131
+200271,43,52,Chicken Biryani,2023-01-02,02:58:43,Cancelled,713
+200272,23,34,Paneer Butter Masala,2025-01-28,16:34:54,Not Fulfilled,832
+200273,52,21,Hakka Noodles,2023-06-26,17:36:34,Cancelled,1163
+200274,124,31,Pasta Alfredo,2023-12-12,20:00:08,Cancelled,647
+200275,96,35,Chicken Curry,2023-06-01,05:05:33,Completed,957
+200276,103,76,Burger,2023-01-25,13:43:04,Not Fulfilled,1108
+200277,4,48,Pasta Alfredo,2024-02-20,18:48:10,Cancelled,240
+200278,80,32,Chicken Biryani,2023-08-24,13:32:38,Completed,386
+200279,122,27,Hakka Noodles,2023-07-31,10:36:23,Cancelled,603
+200280,84,66,Veg Biryani,2025-03-08,20:43:07,Cancelled,265
+200281,69,34,Mutton Rogan Josh,2024-01-09,17:38:13,Cancelled,850
+200282,16,11,Paneer Butter Masala,2023-06-01,11:34:11,Not Fulfilled,872
+200283,38,53,Masala Dosa,2023-02-27,06:19:43,Completed,401
+200284,125,15,Fried Rice,2023-02-09,02:44:30,Cancelled,501
+200285,36,6,Masala Dosa,2023-06-21,04:15:43,Not Fulfilled,860
+200286,29,56,Dal Makhani,2023-10-26,08:49:23,Completed,1103
+200287,86,14,Pasta Alfredo,2024-10-20,17:16:14,Cancelled,643
+200288,45,45,Pizza,2023-05-11,13:37:08,Completed,1012
+200289,37,10,Chicken Biryani,2023-02-11,20:29:37,Cancelled,1166
+200290,93,47,Burger,2024-12-20,10:21:46,Completed,672
+200291,83,55,Pasta Alfredo,2023-07-22,15:12:46,Not Fulfilled,224
+200292,49,37,Mutton Rogan Josh,2023-08-16,14:06:04,Not Fulfilled,985
+200293,83,73,Chole Bhature,2023-12-13,20:49:41,Cancelled,159
+200294,35,5,Dal Makhani,2024-03-17,04:54:06,Cancelled,295
+200295,46,25,Veg Biryani,2023-08-16,02:53:58,Completed,1125
+200296,9,79,Fried Rice,2024-06-30,15:45:31,Cancelled,1137
+200297,73,64,Chicken Biryani,2025-02-15,04:34:50,Not Fulfilled,322
+200298,145,26,Pizza,2023-01-30,00:51:42,Cancelled,351
+200299,58,71,Chicken Curry,2023-01-31,06:06:31,Not Fulfilled,458
+200300,9,57,Dal Makhani,2023-11-08,09:57:33,Cancelled,722
